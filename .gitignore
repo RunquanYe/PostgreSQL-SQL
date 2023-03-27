@@ -1,0 +1,18 @@
+# ignore all the log file
+*.log
+**/*.log
+
+# ignore the .vscode directory
+.vscode
+**/.vscode
+
+.vs
+**/.vs
+
+#ignore the .dSYM directory
+*.dSYM
+**/*.dSYM
+
+#ignore the all the .DS_Store directory
+*.DS_Store
+**/*.DS_Store
